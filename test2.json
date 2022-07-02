@@ -1,0 +1,15 @@
+{
+
+"sites": [{"key": "csp_CZSPP","name": "🚬 厂长资源","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "موارد مدير المصنع"}],
+
+"parses": [],
+
+"flags": [],
+
+"ijk":[],
+
+"ads":[],
+
+"spider": "https://handong3.coding.net/p/catvod/d/handong/git/raw/master/xm/xm.jar"
+
+}
